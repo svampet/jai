@@ -1,0 +1,3 @@
+IP:swampet.aternos.me
+PORT:43706
+NAME:BRO SMP
